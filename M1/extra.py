@@ -63,6 +63,6 @@ while True:
     if i % 6 == 0:
         my_str += " {}".format(i)
         c += 1
-    if c > 30:
+    if c >= 30:
         break
 print(my_str.lstrip())

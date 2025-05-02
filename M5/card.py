@@ -15,7 +15,6 @@ class BaseContact:
     @property
     def label_length(self):
         return len(f"{self.first_name} {self.last_name}")
-
     __str__ = lambda self: f"{self.first_name} {self.last_name} {self.phone_number} {self.email}"
 
 class BusinessContact(BaseContact):
@@ -25,7 +24,6 @@ class BusinessContact(BaseContact):
         self.company_name = company_name
         self.company_phone_number = company_phone_number
 
-    __str__ = lambda self: f"{self.first_name} {self.last_name} {self.phone_number} {self.email} {self.occupation} {self.company_name} {self.company_phone_number}"
 
 
     def contact(self):
@@ -45,6 +43,6 @@ def create_contact(qty,type='basic'):
         contacts.append(contact)
     return contacts
 
-# Example usage
-for c in create_contact(3, 'business'):
-    print(c)
+
+cs = create_contact(3, 'basic')
+print(cs)

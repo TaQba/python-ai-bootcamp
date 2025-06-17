@@ -1,0 +1,40 @@
+Supervised Learning
+
+To rodzaj ML w którym process uczenia modelu polega na wykorzystaniu danych treningowych. Model uczy się na podstawie tych danych, aby przewidywać wyniki dla nowych, nieznanych danych.
+
+Klasyfikacja
+
+Jest to proces, w którym model uczy się przypisywać etykiety do danych wejściowych na podstawie etykietowanych przykładów.
+
+przykład 1: rozpoznawanie obrazów, gdzie model uczy się klasyfikować obrazy jako "kot" lub "pies".
+przykład 2: analiza sentymentu, gdzie model uczy się klasyfikować tekst jako "pozytywny" lub "negatywny" np z social mediów.
+przykład 3: diagnozowanie chorób, gdzie model uczy się klasyfikować objawy jako "choroba A" lub "choroba B".
+
+
+Regresja
+
+Jest to proces, w którym model uczy się przewidywać wartości ciągłe na podstawie danych wejściowych.
+
+przykład 1: przewidywanie cen mieszkań na podstawie ich cech, takich jak powierzchnia, liczba pokoi itp.
+przykład 2: przewidywanie sprzedaży produktu na podstawie danych historycznych.
+przykład 3: przewidywanie temperatury na podstawie danych meteorologicznych.
+
+Unsupervised Learning
+
+To rodzaj ML w którym model uczy się na podstawie nieetykietowanych danych. Celem jest odkrycie ukrytych wzorców lub struktury w danych.
+
+Clustering
+
+Jest to proces, w którym model grupuje dane na podstawie ich podobieństwa, bez użycia etykiet.
+
+przykład 1: segmentacja klientów, gdzie model grupuje klientów na podstawie ich zachowań zakupowych.
+przykład 2: analiza obrazów, gdzie model grupuje obrazy na podstawie ich cech wizualnych.
+przykład 3: analiza dokumentów, gdzie model grupuje dokumenty na podstawie ich treści.
+
+Dimension Reduction
+
+Jest to proces, w którym model redukuje liczbę cech w danych, zachowując jednocześnie najważniejsze informacje.
+
+przykład 1: redukcja wymiarów obrazów, gdzie model przekształca obrazy z wysoką rozdzielczością na obrazy o niższej rozdzielczości.
+przykład 2: analiza danych genetycznych, gdzie model redukuje liczbę genów do analizy, zachowując najważniejsze informacje.
+przykład 3: analiza danych finansowych, gdzie model redukuje liczbę wskaźników ekonomicznych do analizy, zachowując najważniejsze informacje.

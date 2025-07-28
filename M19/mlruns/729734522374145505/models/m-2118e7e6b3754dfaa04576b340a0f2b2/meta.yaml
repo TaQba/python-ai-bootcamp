@@ -1,0 +1,10 @@
+artifact_location: file:///Users/jtadych/Code/python-ai-bootcamp/M19/mlruns/729734522374145505/models/m-2118e7e6b3754dfaa04576b340a0f2b2/artifacts
+creation_timestamp: 1753723102789
+experiment_id: '729734522374145505'
+last_updated_timestamp: 1753723104032
+model_id: m-2118e7e6b3754dfaa04576b340a0f2b2
+model_type: null
+name: best_estimator
+source_run_id: fddc2fa36f2e4557b61fbac6c5ef8571
+status: 2
+status_message: null

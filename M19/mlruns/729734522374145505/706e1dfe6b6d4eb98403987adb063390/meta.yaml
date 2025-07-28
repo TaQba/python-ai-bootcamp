@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jtadych/Code/python-ai-bootcamp/M19/mlruns/729734522374145505/706e1dfe6b6d4eb98403987adb063390/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '729734522374145505'
+lifecycle_stage: active
+run_id: 706e1dfe6b6d4eb98403987adb063390
+run_name: receptive-eel-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753723184769
+status: 1
+tags: []
+user_id: jtadych

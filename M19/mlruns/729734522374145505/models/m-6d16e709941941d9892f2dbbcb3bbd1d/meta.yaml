@@ -1,0 +1,10 @@
+artifact_location: file:///Users/jtadych/Code/python-ai-bootcamp/M19/mlruns/729734522374145505/models/m-6d16e709941941d9892f2dbbcb3bbd1d/artifacts
+creation_timestamp: 1753723759755
+experiment_id: '729734522374145505'
+last_updated_timestamp: 1753723760950
+model_id: m-6d16e709941941d9892f2dbbcb3bbd1d
+model_type: null
+name: model
+source_run_id: 706e1dfe6b6d4eb98403987adb063390
+status: 2
+status_message: null

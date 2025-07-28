@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jtadych/Code/python-ai-bootcamp/M19/mlruns/729734522374145505/8ec9ff0501f748f1bd7eb2d8e55c591f/artifacts
+end_time: 1753722290054
+entry_point_name: ''
+experiment_id: '729734522374145505'
+lifecycle_stage: active
+run_id: 8ec9ff0501f748f1bd7eb2d8e55c591f
+run_name: adorable-sow-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753722284957
+status: 3
+tags: []
+user_id: jtadych

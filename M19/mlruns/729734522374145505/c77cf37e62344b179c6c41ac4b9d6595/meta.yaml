@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jtadych/Code/python-ai-bootcamp/M19/mlruns/729734522374145505/c77cf37e62344b179c6c41ac4b9d6595/artifacts
+end_time: 1753722958946
+entry_point_name: ''
+experiment_id: '729734522374145505'
+lifecycle_stage: active
+run_id: c77cf37e62344b179c6c41ac4b9d6595
+run_name: unequaled-slug-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753722954338
+status: 3
+tags: []
+user_id: jtadych

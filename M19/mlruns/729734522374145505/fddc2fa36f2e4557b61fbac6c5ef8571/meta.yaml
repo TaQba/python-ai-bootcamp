@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jtadych/Code/python-ai-bootcamp/M19/mlruns/729734522374145505/fddc2fa36f2e4557b61fbac6c5ef8571/artifacts
+end_time: 1753723104041
+entry_point_name: ''
+experiment_id: '729734522374145505'
+lifecycle_stage: active
+run_id: fddc2fa36f2e4557b61fbac6c5ef8571
+run_name: funny-goose-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753723100985
+status: 3
+tags: []
+user_id: jtadych
